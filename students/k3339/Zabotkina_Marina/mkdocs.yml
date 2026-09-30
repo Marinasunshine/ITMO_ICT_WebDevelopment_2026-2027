@@ -21,5 +21,5 @@ theme:
     - content.code.copy
 
 nav:
-  - Главная: index.md
+  - Главная: reports.md
   - Лабораторная работа №1: lr1.md
